@@ -4,4 +4,4 @@
 - python -m pip install python-whois
 
 
-A simple domain checker by whois, thanks to copyassignment.com
+A simple domain checker and expired date by whois
