@@ -11,3 +11,4 @@ except:
     print("Ooops,this domain unavailable")
 else:
     print("This domain available !")
+    print(domain.expiration_date)
